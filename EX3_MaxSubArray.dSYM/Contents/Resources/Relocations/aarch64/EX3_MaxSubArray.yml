@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/soncris/Giải thuật/EX3_MaxSubArray"
+relocations:     []
+...
